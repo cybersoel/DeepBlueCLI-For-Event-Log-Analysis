@@ -8,7 +8,7 @@ Used DeepBlueCLI to quickly triage Windows Event logs for signs of malicious act
 
 <p align="center">
 <br/>
-<img src="" height="80%" width="80%" alt="portfolio"/>
+<img src="https://i.imgur.com/arCNb1f.png" height="80%" width="80%" alt="portfolio"/>
 <br />
 
 
